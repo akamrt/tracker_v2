@@ -1,0 +1,5 @@
+{
+  "name": "StabiliZe AI",
+  "description": "A web-based video stabilization tool using Computer Vision for point tracking.",
+  "requestFramePermissions": []
+}
